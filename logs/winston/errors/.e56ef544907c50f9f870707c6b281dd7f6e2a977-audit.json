@@ -1,0 +1,150 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\.e56ef544907c50f9f870707c6b281dd7f6e2a977-audit.json",
+    "files": [
+        {
+            "date": 1686881669947,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-16-06-08-error.log",
+            "hash": "3d18e787a68a29cc9b72fa3b7df9b3613b1e0b2cce4c0b1d573cd655ea04c0a6"
+        },
+        {
+            "date": 1686903104457,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-16-06-14-error.log",
+            "hash": "e2bf9bea4875ab8f2c7f49aa166ba2eae10cb583f80557e089bf9775da5ec6d0"
+        },
+        {
+            "date": 1686906708302,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-16-06-15-error.log",
+            "hash": "aa1339ba530977366a9b89d03c6ae0d899e5aecc168bf877f404801421a2b043"
+        },
+        {
+            "date": 1686912503360,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-16-06-16-error.log",
+            "hash": "288d3e6bfb2a08a41cf6b4d0fd07f06d375a27aaf1efe5c61cf69d04a1953779"
+        },
+        {
+            "date": 1686913212917,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-16-06-17-error.log",
+            "hash": "320afa6c735247563dd7eec903c51a2d2619ec3e797037cf4c6954febe03839d"
+        },
+        {
+            "date": 1686916897263,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-16-06-18-error.log",
+            "hash": "f85677bcfb2e6efbef108f19b5db8a81605df3245ff523c31eef6c54126cb2e1"
+        },
+        {
+            "date": 1686943765731,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-17-06-01-error.log",
+            "hash": "a2a2b03c5f311156465cb4061652eba135a8eb65aa3821e1f62bf112c94f69f0"
+        },
+        {
+            "date": 1686945626732,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-17-06-02-error.log",
+            "hash": "eebe27bd73e37247005994dc300162cd2ce51e3b911d12320d69a441abbfe44c"
+        },
+        {
+            "date": 1686979371455,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-17-06-11-error.log",
+            "hash": "4e1c76317ec1eda6be98ac8abdec428221b21188baff6a444a7ee4f3ba1500d7"
+        },
+        {
+            "date": 1686985034293,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-17-06-12-error.log",
+            "hash": "7011ec94d0b380fd1b825f451d60ddcae8393784ed9c72212e577e0a44dc7fb2"
+        },
+        {
+            "date": 1686992731498,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-17-06-15-error.log",
+            "hash": "20738c7255b6fc7f9a106385c8d2e1c8c2e6bb022f546b7df51a470fe9af8dfa"
+        },
+        {
+            "date": 1686997012016,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-17-06-16-error.log",
+            "hash": "34130b181a4fb4be100b82950807d35f78566b7afdab72e319fd8814151ac3d7"
+        },
+        {
+            "date": 1687001527360,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-17-06-17-error.log",
+            "hash": "9cddd0912ccf402119838bf1932398db386e7081500377b786850ac606d6aacd"
+        },
+        {
+            "date": 1687003205356,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-17-06-18-error.log",
+            "hash": "0fdd05dd59757231e7b9d22af3659b33ca1a07ab70caab6f82befe4f13501882"
+        },
+        {
+            "date": 1687011548778,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-17-06-20-error.log",
+            "hash": "f7ddbb5c339dcd063f2cbab4fbbdcc23b05b005e109548cbb5f0303af7a19e36"
+        },
+        {
+            "date": 1687019649880,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-17-06-22-error.log",
+            "hash": "51c5c36eaf8f12b8d537320c7ff9a7c9e95a12bffa7ab0e0c16592dc72eb5aab"
+        },
+        {
+            "date": 1687021268279,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-17-06-23-error.log",
+            "hash": "7b0e66223eaa113241b8b254f319b188cd7f907cc08a35afef0a1101bc7b316a"
+        },
+        {
+            "date": 1687024869287,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-18-06-00-error.log",
+            "hash": "0e54f670f0735f2e74e305574bcec078685f67f4f4b433383af28b1c28b60b07"
+        },
+        {
+            "date": 1687056544047,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-18-06-08-error.log",
+            "hash": "8853e9fb18840c8451fcf86f5c310b07e6999de9353154c7092bc3d7ed0e75c6"
+        },
+        {
+            "date": 1687057203364,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-18-06-09-error.log",
+            "hash": "b36082cffdcb014a6ea7456cd953da0210abcb05a4a2ad4d17c9262d24533930"
+        },
+        {
+            "date": 1687067741701,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-18-06-11-error.log",
+            "hash": "5fc297828efbdc41c37b2c75eda0036aaeb1330628c62444e521682e4a13bbd1"
+        },
+        {
+            "date": 1687068346501,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-18-06-12-error.log",
+            "hash": "dc405b3bb1bea7feb5f285188b96d6ab15c64e1e9e6144df8edfbe4388cfb9bc"
+        },
+        {
+            "date": 1687071601261,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-18-06-13-error.log",
+            "hash": "9da465d07a8f73477d0191ac8e7d6bd44caddce6855b3e802fb8aedb1af2a839"
+        },
+        {
+            "date": 1687075858073,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-18-06-14-error.log",
+            "hash": "7f5cc3f2c113d543a4097ca9018ba2090add2132543384145be58b0ed97467ee"
+        },
+        {
+            "date": 1687079450391,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-18-06-15-error.log",
+            "hash": "ed7107cfb46ef92d6295aeb997c740a6f8829a73da2c1f2898e77c62866df1a0"
+        },
+        {
+            "date": 1687082621283,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-18-06-16-error.log",
+            "hash": "21f8913979bd264fcae953190fad18d5cfeb0c9cafc8e692c293447da8deb505"
+        },
+        {
+            "date": 1687086416473,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-18-06-17-error.log",
+            "hash": "73453c3bf6d06be4199be383e580dd6f2b61c8558fb22e73e0cb892e671fe8fb"
+        },
+        {
+            "date": 1687090658803,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\errors\\och-2023-18-06-18-error.log",
+            "hash": "96525ca8954c58e8c6f8cd5982f27036e99ab5063aa34a949f2ab98acf88e76a"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\.e6952d7d1db2001f76b104013f7fd5112fabb10f-audit.json",
+    "files": [
+        {
+            "date": 1686881477935,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\phu-2023-16-06-08-success.lg",
+            "hash": "e47906f68f92f82cfd95fcd70f8c358a0c9953a79adaf13c295050e8bdb3b171"
+        }
+    ],
+    "hashType": "sha256"
+}

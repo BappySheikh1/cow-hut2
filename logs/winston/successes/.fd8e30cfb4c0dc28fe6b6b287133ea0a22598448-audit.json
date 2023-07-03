@@ -1,0 +1,150 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\.fd8e30cfb4c0dc28fe6b6b287133ea0a22598448-audit.json",
+    "files": [
+        {
+            "date": 1686881656803,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-16-06-08-success.lg",
+            "hash": "b8eee94a8e5dea18807bb450f6b0f4191238b298c352414f889b20f785de4f71"
+        },
+        {
+            "date": 1686903104441,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-16-06-14-success.lg",
+            "hash": "4e531f481b839e74f959ef83c935bea9c1bd6d2fc104d0d7ba9ee8ccb324ea83"
+        },
+        {
+            "date": 1686906708289,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-16-06-15-success.lg",
+            "hash": "2bdaf33e8091864b8ae9843d85fe98fc0da8e46b94ca77eb6a49394d3717b4df"
+        },
+        {
+            "date": 1686912503348,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-16-06-16-success.lg",
+            "hash": "f150e098d3d1bf61828c8deb8ec5aaf7cda96560e95556ac069753e43a96879f"
+        },
+        {
+            "date": 1686913212902,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-16-06-17-success.lg",
+            "hash": "cb95571e117bf9b6873717501d49bdba605cb40d3bf7161d3a69f59b87f2bc4e"
+        },
+        {
+            "date": 1686916897249,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-16-06-18-success.lg",
+            "hash": "106a64fc7c9344092e8fdb252269affce8b92e20de854f3ae7170d0cdc70f679"
+        },
+        {
+            "date": 1686943765712,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-17-06-01-success.lg",
+            "hash": "462af5e37f4af4970f25c0443e05b0d7ebb04a99ade1b12830dcbc6530940c7c"
+        },
+        {
+            "date": 1686945626720,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-17-06-02-success.lg",
+            "hash": "e8fda6397da33acbf31f27de3f966738d2494482e76b2e93c2ed9d6bb52bc96f"
+        },
+        {
+            "date": 1686979371442,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-17-06-11-success.lg",
+            "hash": "43f37ce584fe5b02c6b2e005aecf8f38bb73ca9040ce89920fa77238f5addb01"
+        },
+        {
+            "date": 1686985034278,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-17-06-12-success.lg",
+            "hash": "b02be9cef1b9edbe0673844d422f551732fdfe8d62fa26e42ccee8031090a6cd"
+        },
+        {
+            "date": 1686992731484,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-17-06-15-success.lg",
+            "hash": "7f6edbd0372db9995f2c1ffd71ccd4ed6d5382decabb1bf4221318370cfd7029"
+        },
+        {
+            "date": 1686997012000,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-17-06-16-success.lg",
+            "hash": "8391f61db70cbf8bfee33885668ad781468c4b1a51d1a76a4b6b8369b76608c6"
+        },
+        {
+            "date": 1687001527347,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-17-06-17-success.lg",
+            "hash": "86fb360a85d99d2de852957a8139f7605cfedbd5c1fc65383f17acdf1d84edef"
+        },
+        {
+            "date": 1687003205344,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-17-06-18-success.lg",
+            "hash": "35831baccb94765e4dac7b52090757d82c7a66bd6eb5cae98611fcfb4b0f2bf6"
+        },
+        {
+            "date": 1687011548761,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-17-06-20-success.lg",
+            "hash": "5adf070f370cdfb30b6301a39a27afec66d2a32320b52b950ed7d1866a1eb7e5"
+        },
+        {
+            "date": 1687019649866,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-17-06-22-success.lg",
+            "hash": "1f128ebe0325552a5485c00ce5a7ee787ff6098314c54dee5308d28f8382577c"
+        },
+        {
+            "date": 1687021268267,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-17-06-23-success.lg",
+            "hash": "23c93113d3e16041bdb008c9970c32676ed63d96efa317610693544e011339aa"
+        },
+        {
+            "date": 1687024869279,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-18-06-00-success.lg",
+            "hash": "e04c5d2da4a11fe4ef13a5ba66e3cb485e8890578d7ba19b0b3db9b71bd06471"
+        },
+        {
+            "date": 1687056544033,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-18-06-08-success.lg",
+            "hash": "772926b09ac70a6112b315fb0903d1d78853bf21e827bd35931ccf2e09ae4796"
+        },
+        {
+            "date": 1687057203353,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-18-06-09-success.lg",
+            "hash": "35a36ab07133f2f608eb15bbb5180d6d2e833c38cce810b81e05e00b1b8462d9"
+        },
+        {
+            "date": 1687067741688,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-18-06-11-success.lg",
+            "hash": "721e6dedbecb8869bc9a8acd4d6a488a4a06105ff1927d0b70400b2e0aa65a1a"
+        },
+        {
+            "date": 1687068346490,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-18-06-12-success.lg",
+            "hash": "eadec26695c573bcfe84668bd404ebf16457e6eef263dc3b127e738993f3f4e1"
+        },
+        {
+            "date": 1687071601254,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-18-06-13-success.lg",
+            "hash": "aa5bce99a51032779cc2fecedaa9ff246e34f9f10aaaa74fa6a38ca49621ee89"
+        },
+        {
+            "date": 1687075858064,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-18-06-14-success.lg",
+            "hash": "29387dd24209baa7c70007e41e1c190287e98ad0d3f54139c48ca084976db6f6"
+        },
+        {
+            "date": 1687079450385,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-18-06-15-success.lg",
+            "hash": "f484439dce4cac8fa6223d7e3c338fd8cfd488b45129a07800bda206beeb8aeb"
+        },
+        {
+            "date": 1687082621277,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-18-06-16-success.lg",
+            "hash": "9467d17c0a99f0a4733dc713f793c7e1a1322fc4e9b915d4edc551c78b259c14"
+        },
+        {
+            "date": 1687086416465,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-18-06-17-success.lg",
+            "hash": "1aefc6bec8980a5ddfaa740568d1a23bc285b59c187e1bf25b042df00d54124e"
+        },
+        {
+            "date": 1687090658780,
+            "name": "C:\\Users\\WALTON\\Desktop\\lebel_2_assignment\\digital-caw-hat\\logs\\winston\\successes\\och-2023-18-06-18-success.lg",
+            "hash": "58ee33f17902bddd9ba7d989d95dbb8638ae375be93fee5473c6d8876a0e933d"
+        }
+    ],
+    "hashType": "sha256"
+}
